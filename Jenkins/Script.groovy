@@ -2,4 +2,4 @@
 
 properties([pipelineTriggers([cron('')])])
 
-echo "Hello From Git"
+echo "Hello From Feature Script"
