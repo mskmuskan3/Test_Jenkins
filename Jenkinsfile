@@ -1,3 +1,3 @@
 #!groovy
 
-echo "Hello From Git"
+echo "Hello From Git Pull"
