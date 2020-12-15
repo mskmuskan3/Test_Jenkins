@@ -3,4 +3,4 @@
 properties([pipelineTriggers([cron('54 13 * * *')])])
 
 
-echo "Hello From Main Script"
+echo "Hello From Pull Script"
