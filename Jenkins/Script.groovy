@@ -3,4 +3,4 @@
 properties([pipelineTriggers([cron('59 12 * * *')])])
 
 
-echo "Hello From Main Script"
+echo "Hello From New Script"
