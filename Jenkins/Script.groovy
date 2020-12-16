@@ -1,6 +1,6 @@
 #!groovy
 
-properties([pipelineTriggers([cron('59 13 * * *')])])
+properties([pipelineTriggers([cron('59 12 * * *')])])
 
 
-echo "Hello From Push Notification"
+echo "Hello From Main"
